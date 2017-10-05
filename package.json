@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/npmatichs/scaffolding#readme",
   "dependencies": {
+    "env": "git+http://github.com/npmatichs/env.git",
     "express": "^4.16.1",
     "express-session": "^1.15.6",
     "jsonwebtoken": "^8.0.1"
