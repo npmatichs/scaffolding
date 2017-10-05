@@ -1,0 +1,25 @@
+{
+  "name": "scaffolding",
+  "version": "1.0.0",
+  "description": "NodeJS Admin Panel Scaffold system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npmatichs/scaffolding.git"
+  },
+  "keywords": [
+    "nodejs",
+    "scaffolding",
+    "express",
+    "postgresql"
+  ],
+  "author": "wickd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npmatichs/scaffolding/issues"
+  },
+  "homepage": "https://github.com/npmatichs/scaffolding#readme"
+}

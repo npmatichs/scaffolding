@@ -1,0 +1,22 @@
+{
+  "constructions" : {
+    "icon": "fa fa-circle-o"
+  },
+  "categories" : {
+    "icon": "fa fa-circle-o"
+  },
+  "career_requests" : {
+    "icon": "fa fa-circle-o",
+    "title": "Career requests"
+  },
+  "positions" : {
+    "icon": "fa fa-circle-o"
+  },
+  "contact_us" : {
+    "icon" : "fa fa-circle-o",
+    "title" : "Contact Us"
+  },
+  "services" : {
+    "icon" : "fa fa-circle-o"
+  }
+}
